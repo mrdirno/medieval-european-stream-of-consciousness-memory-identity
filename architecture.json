@@ -1,0 +1,62 @@
+{
+  "book_id": "medieval-european-stream-of-consciousness-memory-identity",
+  "title": "The Memory of Cold",
+  "tagline": "A lay brother, sold into servitude, must navigate a world of unreliable memory and shifting identity to uncover a truth buried deeper than bones.",
+  "target_words": 76841,
+  "actual_words": 76841,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Unreliability of Memory",
+    "The Fragmentation of Self",
+    "The Weight of the Past",
+    "Sacred vs. Profane Decay"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Stone's Lukewarm Tooth",
+      "words": 8537
+    },
+    {
+      "ch": 2,
+      "title": "A Bed of Clouded Memory",
+      "words": 8537
+    },
+    {
+      "ch": 3,
+      "title": "Kneading Absence",
+      "words": 8537
+    },
+    {
+      "ch": 4,
+      "title": "The Second Wrong Thing",
+      "words": 8537
+    },
+    {
+      "ch": 5,
+      "title": "A Congregation of Black Bones",
+      "words": 8537
+    },
+    {
+      "ch": 6,
+      "title": "The Memory of Cold",
+      "words": 8537
+    },
+    {
+      "ch": 7,
+      "title": "The Black Mere's Tepid Bath",
+      "words": 8537
+    },
+    {
+      "ch": 8,
+      "title": "The Sweetness of Rotting Apples",
+      "words": 8537
+    },
+    {
+      "ch": 9,
+      "title": "A Silence With a Skin",
+      "words": 8537
+    }
+  ]
+}
